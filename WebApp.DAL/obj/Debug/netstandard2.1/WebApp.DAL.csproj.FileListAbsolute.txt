@@ -1,0 +1,12 @@
+C:\Project\WebApp\WebApp.DAL\bin\Debug\netstandard2.1\WebApp.DAL.deps.json
+C:\Project\WebApp\WebApp.DAL\bin\Debug\netstandard2.1\WebApp.DAL.dll
+C:\Project\WebApp\WebApp.DAL\bin\Debug\netstandard2.1\WebApp.DAL.pdb
+C:\Project\WebApp\WebApp.DAL\bin\Debug\netstandard2.1\WebApp.Domain.dll
+C:\Project\WebApp\WebApp.DAL\bin\Debug\netstandard2.1\WebApp.Domain.pdb
+C:\Project\WebApp\WebApp.DAL\obj\Debug\netstandard2.1\WebApp.DAL.csprojAssemblyReference.cache
+C:\Project\WebApp\WebApp.DAL\obj\Debug\netstandard2.1\WebApp.DAL.AssemblyInfoInputs.cache
+C:\Project\WebApp\WebApp.DAL\obj\Debug\netstandard2.1\WebApp.DAL.AssemblyInfo.cs
+C:\Project\WebApp\WebApp.DAL\obj\Debug\netstandard2.1\WebApp.DAL.csproj.CoreCompileInputs.cache
+C:\Project\WebApp\WebApp.DAL\obj\Debug\netstandard2.1\WebApp.DAL.csproj.CopyComplete
+C:\Project\WebApp\WebApp.DAL\obj\Debug\netstandard2.1\WebApp.DAL.dll
+C:\Project\WebApp\WebApp.DAL\obj\Debug\netstandard2.1\WebApp.DAL.pdb

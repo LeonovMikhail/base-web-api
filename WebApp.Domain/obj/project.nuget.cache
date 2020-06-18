@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4khLqIVfvR0DPlKtl7T1zMfrKzsbBAiMVq8d53OL2YfoZLs9d//2weYEcQb6Zw+peMkS6EiR8QnjXUS3KqQmOA==",
+  "success": true,
+  "projectFilePath": "C:\\Project\\WebApp\\WebApp.Domain\\WebApp.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leono\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

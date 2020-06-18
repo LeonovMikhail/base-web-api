@@ -1,0 +1,9 @@
+C:\Project\WebApp\WebApp.Domain\bin\Debug\netstandard2.1\WebApp.Domain.deps.json
+C:\Project\WebApp\WebApp.Domain\bin\Debug\netstandard2.1\WebApp.Domain.dll
+C:\Project\WebApp\WebApp.Domain\bin\Debug\netstandard2.1\WebApp.Domain.pdb
+C:\Project\WebApp\WebApp.Domain\obj\Debug\netstandard2.1\WebApp.Domain.csprojAssemblyReference.cache
+C:\Project\WebApp\WebApp.Domain\obj\Debug\netstandard2.1\WebApp.Domain.AssemblyInfoInputs.cache
+C:\Project\WebApp\WebApp.Domain\obj\Debug\netstandard2.1\WebApp.Domain.AssemblyInfo.cs
+C:\Project\WebApp\WebApp.Domain\obj\Debug\netstandard2.1\WebApp.Domain.csproj.CoreCompileInputs.cache
+C:\Project\WebApp\WebApp.Domain\obj\Debug\netstandard2.1\WebApp.Domain.dll
+C:\Project\WebApp\WebApp.Domain\obj\Debug\netstandard2.1\WebApp.Domain.pdb

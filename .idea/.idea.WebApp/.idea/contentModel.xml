@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Project\WebApp" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="WebApp.API" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="ApartmentController.cs" t="Include" />
+          <e p="BookingController.cs" t="Include" />
+          <e p="UserController.cs" t="Include" />
+        </e>
+        <e p="DependencyInjectionModule.cs" t="Include" />
+        <e p="Handler" t="Include">
+          <e p="IApartmentHandler.cs" t="Include" />
+          <e p="IBookingHandler.cs" t="Include" />
+          <e p="Implementation" t="Include">
+            <e p="ApartmentHandler.cs" t="Include" />
+            <e p="BookingHandler.cs" t="Include" />
+            <e p="UserHandler.cs" t="Include" />
+          </e>
+          <e p="IUserHandler.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="WebApp.API.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Service" t="Include">
+          <e p="IApartmentService.cs" t="Include" />
+          <e p="IBookingService.cs" t="Include" />
+          <e p="Implementation" t="Include">
+            <e p="ApartmentService.cs" t="Include" />
+            <e p="BookingService.cs" t="Include" />
+            <e p="UserService.cs" t="Include" />
+          </e>
+          <e p="IUserService.cs" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="ViewModels" t="Include">
+          <e p="Apartment" t="Include">
+            <e p="ApartmentViewModel.cs" t="Include" />
+          </e>
+          <e p="Booking" t="Include">
+            <e p="BookingViewModel.cs" t="Include" />
+          </e>
+          <e p="MappingConfig.cs" t="Include" />
+          <e p="User" t="Include">
+            <e p="UserListItemViewModel.cs" t="Include" />
+            <e p="UserViewModel.cs" t="Include" />
+          </e>
+        </e>
+        <e p="WebApp.API.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="WebApp.DAL" t="IncludeRecursive">
+        <e p="AddMigration.ps1" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Context.cs" t="Include" />
+        <e p="DbSetting.cs" t="Include" />
+        <e p="Migrations" t="Include">
+          <e p="20200618113408_InitialMigration.cs" t="Include" />
+          <e p="20200618113408_InitialMigration.Designer.cs" t="Include" />
+          <e p="ContextModelSnapshot.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.1" t="Include">
+              <e p="WebApp.DAL.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Repository" t="Include">
+          <e p="IBookingRepository.cs" t="Include" />
+          <e p="Implementation" t="Include">
+            <e p="ApartmentRepository.cs" t="Include" />
+            <e p="BookingRepository.cs" t="Include" />
+            <e p="UserRepository.cs" t="Include" />
+          </e>
+          <e p="IRepository.cs" t="Include" />
+          <e p="IUserRepository.cs" t="Include" />
+        </e>
+        <e p="WebApp.DAL.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="WebApp.Domain" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Models" t="Include">
+          <e p="ApartmentModel.cs" t="Include" />
+          <e p="BaseModel.cs" t="Include" />
+          <e p="BookingModel.cs" t="Include" />
+          <e p="UserModel.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.1" t="Include">
+              <e p="WebApp.Domain.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="WebApp.Domain.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="WebApp.sln" t="IncludeFlat" />
+    </e>
+    <e p="C:\Users\leono\.Rider2019.3\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\leono\.Rider2019.3\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\leono\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\leono\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_WebApp.2050541358.00" t="ExcludeRecursive" />
+  </component>
+</project>
