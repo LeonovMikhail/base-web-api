@@ -1,6 +1,6 @@
-﻿using BksTest.Domain.Models;
+﻿using WebApp.Domain.Models;
 
-namespace BksTest.DAL.Repository
+namespace WebApp.DAL.Repository
 {
     public interface IBookingRepository : IRepository<BookingModel>
     {

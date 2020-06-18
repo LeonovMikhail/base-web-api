@@ -1,16 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Net;
-using System.Net.Http;
 using System.Threading.Tasks;
-using System.Web.Http;
 using AutoMapper;
-using BksTest.DAL.Repository;
-using BksTest.Domain.Models;
-using BksTest.ViewModels.Booking;
+using WebApp.DAL.Repository;
+using WebApp.Domain.Models;
+using WebApp.ViewModels.Booking;
 
-namespace BksTest.Service.Implementation
+namespace WebApp.Service.Implementation
 {
     public class BookingService : IBookingService
     {

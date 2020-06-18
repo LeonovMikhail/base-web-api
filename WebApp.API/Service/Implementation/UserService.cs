@@ -1,15 +1,13 @@
-﻿﻿using System;
-using System.Collections;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using AutoMapper;
-using BksTest.DAL.Repository;
-using BksTest.Domain.Models;
-using BksTest.Handler;
-using BksTest.ViewModels.User;
+using WebApp.DAL.Repository;
+using WebApp.Domain.Models;
+using WebApp.ViewModels.User;
 
-namespace BksTest.Service.Implementation
+namespace WebApp.Service.Implementation
 {
     public class UserService : IUserService
     {

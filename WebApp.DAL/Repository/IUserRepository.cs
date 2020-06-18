@@ -1,11 +1,8 @@
-﻿﻿using System;
-using System.Collections;
-using System.Collections.Generic;
-using System.Linq.Expressions;
+﻿using System.Collections.Generic;
 using System.Threading.Tasks;
-using BksTest.Domain.Models;
+using WebApp.Domain.Models;
 
-namespace BksTest.DAL.Repository
+namespace WebApp.DAL.Repository
 {
     public interface IUserRepository : IRepository<UserModel>
     {

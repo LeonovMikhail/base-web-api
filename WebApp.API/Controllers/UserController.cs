@@ -1,14 +1,11 @@
-﻿﻿﻿using System;
-using System.Collections;
+﻿using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using BksTest.Domain.Models;
-using BksTest.Handler;
-using BksTest.ViewModels.User;
 using Microsoft.AspNetCore.Mvc;
-using Swashbuckle.Swagger;
+using WebApp.Handler;
+using WebApp.ViewModels.User;
 
-namespace BksTest.Controllers
+namespace WebApp.Controllers
 {
     [Route("api/users")]
     public class UserController : ControllerBase

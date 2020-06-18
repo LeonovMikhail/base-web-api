@@ -1,11 +1,11 @@
-﻿﻿using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq.Expressions;
 using System.Threading.Tasks;
-using BksTest.Domain.Models;
 using Microsoft.EntityFrameworkCore;
+using WebApp.Domain.Models;
 
-namespace BksTest.DAL.Repository.Implementation
+namespace WebApp.DAL.Repository.Implementation
 {
     public class BookingRepository : IBookingRepository
     {

@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using BksTest.ViewModels.Apartment;
+using WebApp.ViewModels.Apartment;
 
-namespace BksTest.Service
+namespace WebApp.Service
 {
     public interface IApartmentService
     {

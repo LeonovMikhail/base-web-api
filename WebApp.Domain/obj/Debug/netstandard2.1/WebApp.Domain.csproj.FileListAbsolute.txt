@@ -7,3 +7,12 @@ C:\Project\WebApp\WebApp.Domain\obj\Debug\netstandard2.1\WebApp.Domain.AssemblyI
 C:\Project\WebApp\WebApp.Domain\obj\Debug\netstandard2.1\WebApp.Domain.csproj.CoreCompileInputs.cache
 C:\Project\WebApp\WebApp.Domain\obj\Debug\netstandard2.1\WebApp.Domain.dll
 C:\Project\WebApp\WebApp.Domain\obj\Debug\netstandard2.1\WebApp.Domain.pdb
+C:\Project\base-web-api\WebApp.Domain\bin\Debug\netstandard2.1\WebApp.Domain.deps.json
+C:\Project\base-web-api\WebApp.Domain\bin\Debug\netstandard2.1\WebApp.Domain.dll
+C:\Project\base-web-api\WebApp.Domain\bin\Debug\netstandard2.1\WebApp.Domain.pdb
+C:\Project\base-web-api\WebApp.Domain\obj\Debug\netstandard2.1\WebApp.Domain.csprojAssemblyReference.cache
+C:\Project\base-web-api\WebApp.Domain\obj\Debug\netstandard2.1\WebApp.Domain.AssemblyInfoInputs.cache
+C:\Project\base-web-api\WebApp.Domain\obj\Debug\netstandard2.1\WebApp.Domain.AssemblyInfo.cs
+C:\Project\base-web-api\WebApp.Domain\obj\Debug\netstandard2.1\WebApp.Domain.csproj.CoreCompileInputs.cache
+C:\Project\base-web-api\WebApp.Domain\obj\Debug\netstandard2.1\WebApp.Domain.dll
+C:\Project\base-web-api\WebApp.Domain\obj\Debug\netstandard2.1\WebApp.Domain.pdb

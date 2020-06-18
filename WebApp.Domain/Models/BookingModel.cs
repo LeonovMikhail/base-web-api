@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace BksTest.Domain.Models
+namespace WebApp.Domain.Models
 {
     public class BookingModel : BaseModel
     {

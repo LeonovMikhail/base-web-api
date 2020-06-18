@@ -1,11 +1,11 @@
-﻿﻿﻿using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using BksTest.Handler;
-using BksTest.ViewModels.Booking;
 using Microsoft.AspNetCore.Mvc;
+using WebApp.Handler;
+using WebApp.ViewModels.Booking;
 
-namespace BksTest.Controllers
+namespace WebApp.Controllers
 {
     [Route("api/booking")]
     public class BookingController : ControllerBase

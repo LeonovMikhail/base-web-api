@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Project\\WebApp\\WebApp.Domain\\WebApp.Domain.csproj",
+    "projectUniqueName": "C:\\Project\\base-web-api\\WebApp.Domain\\WebApp.Domain.csproj",
     "projectName": "WebApp.Domain",
-    "projectPath": "C:\\Project\\WebApp\\WebApp.Domain\\WebApp.Domain.csproj",
-    "outputPath": "C:\\Project\\WebApp\\WebApp.Domain\\obj\\",
+    "projectPath": "C:\\Project\\base-web-api\\WebApp.Domain\\WebApp.Domain.csproj",
+    "outputPath": "C:\\Project\\base-web-api\\WebApp.Domain\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

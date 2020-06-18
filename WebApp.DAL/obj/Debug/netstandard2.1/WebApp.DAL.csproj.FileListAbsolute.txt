@@ -10,3 +10,15 @@ C:\Project\WebApp\WebApp.DAL\obj\Debug\netstandard2.1\WebApp.DAL.csproj.CoreComp
 C:\Project\WebApp\WebApp.DAL\obj\Debug\netstandard2.1\WebApp.DAL.csproj.CopyComplete
 C:\Project\WebApp\WebApp.DAL\obj\Debug\netstandard2.1\WebApp.DAL.dll
 C:\Project\WebApp\WebApp.DAL\obj\Debug\netstandard2.1\WebApp.DAL.pdb
+C:\Project\base-web-api\WebApp.DAL\bin\Debug\netstandard2.1\WebApp.DAL.deps.json
+C:\Project\base-web-api\WebApp.DAL\bin\Debug\netstandard2.1\WebApp.DAL.dll
+C:\Project\base-web-api\WebApp.DAL\bin\Debug\netstandard2.1\WebApp.DAL.pdb
+C:\Project\base-web-api\WebApp.DAL\bin\Debug\netstandard2.1\WebApp.Domain.dll
+C:\Project\base-web-api\WebApp.DAL\bin\Debug\netstandard2.1\WebApp.Domain.pdb
+C:\Project\base-web-api\WebApp.DAL\obj\Debug\netstandard2.1\WebApp.DAL.csprojAssemblyReference.cache
+C:\Project\base-web-api\WebApp.DAL\obj\Debug\netstandard2.1\WebApp.DAL.AssemblyInfoInputs.cache
+C:\Project\base-web-api\WebApp.DAL\obj\Debug\netstandard2.1\WebApp.DAL.AssemblyInfo.cs
+C:\Project\base-web-api\WebApp.DAL\obj\Debug\netstandard2.1\WebApp.DAL.csproj.CoreCompileInputs.cache
+C:\Project\base-web-api\WebApp.DAL\obj\Debug\netstandard2.1\WebApp.DAL.csproj.CopyComplete
+C:\Project\base-web-api\WebApp.DAL\obj\Debug\netstandard2.1\WebApp.DAL.dll
+C:\Project\base-web-api\WebApp.DAL\obj\Debug\netstandard2.1\WebApp.DAL.pdb

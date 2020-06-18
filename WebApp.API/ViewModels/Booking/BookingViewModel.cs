@@ -1,7 +1,6 @@
-﻿﻿using System;
-using BksTest.Domain.Models;
+﻿using System;
 
-namespace BksTest.ViewModels.Booking
+namespace WebApp.ViewModels.Booking
 {
     public class BookingViewModel
     {

@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using BksTest.Service;
-using BksTest.ViewModels.Booking;
+using WebApp.Service;
+using WebApp.ViewModels.Booking;
 
-namespace BksTest.Handler.Implementation
+namespace WebApp.Handler.Implementation
 {
     public class BookingHandler : IBookingHandler
     {

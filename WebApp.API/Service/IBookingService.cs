@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using BksTest.ViewModels.Booking;
+using WebApp.ViewModels.Booking;
 
-namespace BksTest.Service
+namespace WebApp.Service
 {
     public interface IBookingService
     {

@@ -1,10 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using BksTest.ViewModels.Apartment;
-using BksTest.ViewModels.User;
+using WebApp.ViewModels.Apartment;
 
-namespace BksTest.Handler
+namespace WebApp.Handler
 {
     public interface IApartmentHandler
     {

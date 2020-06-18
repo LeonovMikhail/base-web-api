@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Project\\WebApp\\WebApp.Domain\\WebApp.Domain.csproj": {}
+    "C:\\Project\\base-web-api\\WebApp.Domain\\WebApp.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Project\\WebApp\\WebApp.Domain\\WebApp.Domain.csproj": {
+    "C:\\Project\\base-web-api\\WebApp.Domain\\WebApp.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Project\\WebApp\\WebApp.Domain\\WebApp.Domain.csproj",
+        "projectUniqueName": "C:\\Project\\base-web-api\\WebApp.Domain\\WebApp.Domain.csproj",
         "projectName": "WebApp.Domain",
-        "projectPath": "C:\\Project\\WebApp\\WebApp.Domain\\WebApp.Domain.csproj",
+        "projectPath": "C:\\Project\\base-web-api\\WebApp.Domain\\WebApp.Domain.csproj",
         "packagesPath": "C:\\Users\\leono\\.nuget\\packages\\",
-        "outputPath": "C:\\Project\\WebApp\\WebApp.Domain\\obj\\",
+        "outputPath": "C:\\Project\\base-web-api\\WebApp.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,4 +1,4 @@
-﻿namespace BksTest.DAL
+﻿namespace WebApp.DAL
 {
     public class DbSetting
     {   

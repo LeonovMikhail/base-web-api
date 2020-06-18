@@ -1,12 +1,11 @@
-﻿﻿﻿using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using BksTest.Handler;
-using BksTest.ViewModels.Apartment;
-using BksTest.ViewModels.User;
 using Microsoft.AspNetCore.Mvc;
+using WebApp.Handler;
+using WebApp.ViewModels.Apartment;
 
-namespace BksTest.Controllers
+namespace WebApp.Controllers
 {
     [Route("api/apartment")]
     public class ApartmentController : ControllerBase

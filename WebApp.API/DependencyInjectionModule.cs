@@ -1,14 +1,13 @@
-﻿using BksTest.DAL.Repository;
-using BksTest.DAL.Repository.Implementation;
-using BksTest.Domain.Models;
-using BksTest.Handler;
-using BksTest.Handler.Implementation;
-using BksTest.Service;
-using BksTest.Service.Implementation;
-using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.DependencyInjection.Extensions;
+﻿using Microsoft.Extensions.DependencyInjection;
+using WebApp.DAL.Repository;
+using WebApp.DAL.Repository.Implementation;
+using WebApp.Domain.Models;
+using WebApp.Handler;
+using WebApp.Handler.Implementation;
+using WebApp.Service;
+using WebApp.Service.Implementation;
 
-namespace BksTest
+namespace WebApp
 {
     public class DependencyInjectionModule
     {

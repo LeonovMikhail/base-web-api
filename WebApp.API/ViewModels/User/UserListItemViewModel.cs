@@ -1,8 +1,7 @@
-﻿﻿using System;
-using System.Collections;
+﻿using System;
 using System.Collections.Generic;
 
-namespace BksTest.ViewModels.User
+namespace WebApp.ViewModels.User
 {
     public class UserListItemViewModel
     {

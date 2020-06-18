@@ -1,7 +1,7 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
 
-namespace BksTest.Domain.Models
+namespace WebApp.Domain.Models
 {
     public class BaseModel 
     {

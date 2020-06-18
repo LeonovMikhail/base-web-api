@@ -1,9 +1,9 @@
-﻿﻿using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using BksTest.ViewModels.User;
+using WebApp.ViewModels.User;
 
-namespace BksTest.Service
+namespace WebApp.Service
 {
     public interface IUserService
     {

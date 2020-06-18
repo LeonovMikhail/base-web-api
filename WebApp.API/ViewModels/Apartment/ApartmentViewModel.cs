@@ -1,6 +1,6 @@
 ﻿﻿using System;
 
-namespace BksTest.ViewModels.Apartment
+ namespace WebApp.ViewModels.Apartment
 {
     public class ApartmentViewModel
     {

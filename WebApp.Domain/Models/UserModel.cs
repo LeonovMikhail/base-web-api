@@ -1,7 +1,6 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 
-namespace BksTest.Domain.Models
+namespace WebApp.Domain.Models
 {
     public class UserModel : BaseModel
     {

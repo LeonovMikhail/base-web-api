@@ -1,12 +1,12 @@
-﻿﻿using System;
+﻿using System;
 using System.Linq;
 using AutoMapper;
-using BksTest.Domain.Models;
-using BksTest.ViewModels.Apartment;
-using BksTest.ViewModels.Booking;
-using BksTest.ViewModels.User;
+using WebApp.Domain.Models;
+using WebApp.ViewModels.Apartment;
+using WebApp.ViewModels.Booking;
+using WebApp.ViewModels.User;
 
-namespace BksTest.ViewModels
+namespace WebApp.ViewModels
 {
     public class MappingConfig
     {

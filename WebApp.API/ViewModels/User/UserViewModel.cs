@@ -1,6 +1,6 @@
 ﻿﻿using System;
 
-namespace BksTest.ViewModels.User
+ namespace WebApp.ViewModels.User
 {
     public class UserViewModel
     {

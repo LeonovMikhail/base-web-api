@@ -2,10 +2,10 @@
 using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
-using BksTest.Domain.Models;
 using Microsoft.EntityFrameworkCore;
+using WebApp.Domain.Models;
 
-namespace BksTest.DAL
+namespace WebApp.DAL
 {
     public class Context : DbContext
     {
